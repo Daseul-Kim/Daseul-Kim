@@ -17,10 +17,8 @@ This is Daseul Kim who will ba a Digital Marketer. :octocat:
 :ledger:Studying English
 
 
-if you want to know about me more...:point_down:
 
 
-[![RESUME](https://img.shields.io/badge/-RESUME-c079e5?style=flat-square&link=https://bit.ly/3dl9Cmg)]
 <!--
 **Daseul-Kim/Daseul-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
