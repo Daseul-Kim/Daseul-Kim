@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Daseul Kim who will ba a Digital Marketer. :octocat:
+This is Daseul Kim who will be a Digital Marketer. :octocat:
 
 
 ### My interests are...
