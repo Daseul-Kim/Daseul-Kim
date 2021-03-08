@@ -12,7 +12,7 @@ This is Daseul Kim who will ba a Digital Marketer. :octocat:
 
 
 if you want to know about me more...:point_down:
-![RESUME](https://img.shields.io/badge/-RESUME-c079e5)(https://www.notion.so/Dana-Kim-48f2246959604f50a845d1895a0bc1a5)
+![RESUME](https://img.shields.io/badge/-RESUME-c079e5&link=https://www.notion.so/Dana-Kim-48f2246959604f50a845d1895a0bc1a5)
 
 <!--
 **Daseul-Kim/Daseul-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
